@@ -1,0 +1,28 @@
+{
+  "name": "Ronda · Combat training log",
+  "short_name": "Ronda",
+  "description": "Registro offline-first para deportes de combate.",
+  "lang": "es",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#101617",
+  "theme_color": "#101617",
+  "categories": ["health", "lifestyle", "sports"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
